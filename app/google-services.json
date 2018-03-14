@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731454715490",
+    "project_id": "signindemo-b44c4"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731454715490:android:ec17b286466e039b",
+        "android_client_info": {
+          "package_name": "com.cclk.signindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731454715490-n0cjt4ts78o9n6gqu2knsveb41kiu60u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cclk.signindemo",
+            "certificate_hash": "c115e03bd29ab692bd956da775ba1465f22fa2e7"
+          }
+        },
+        {
+          "client_id": "731454715490-9nrcj8bv049s0bc2a3tfo374i7k1s1tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8YJjGZqKr81x3f2OELQHhWvqkXMRQr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
